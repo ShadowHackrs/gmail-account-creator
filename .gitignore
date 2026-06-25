@@ -1,0 +1,14 @@
+# Local secrets and generated account data
+config/password.txt
+config/5sim_config.txt
+data/accounts.json
+
+# Python/cache/build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.spec
